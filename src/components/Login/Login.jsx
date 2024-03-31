@@ -14,6 +14,7 @@ const Login = () => {
             .then(result => {
                 const logedInUser = result.user;
                 // console.log(logedInUser);
+
                 setUser(logedInUser);
             })
             .catch(error => {

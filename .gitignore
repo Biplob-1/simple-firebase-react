@@ -23,6 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-#firebase screet files
-firebase/firebase.init.js
+# firebase screet files
+src/firebase/firebase.init.js
 
